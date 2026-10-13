@@ -61,11 +61,11 @@ The dashboard includes interactive filters for channel, sub-channel, and year.
 
 ### Sales and Channel Analysis
 
-![PharmaCommand Sales and Channel Analysis](Sales%26ChannelAnalysis.png)
+![PharmaCommand Sales and Channel Analysis](Sales%26Sales&ChannelAnalysis.png)
 
 ### Product and Regional Analysis
 
-![PharmaCommand Product and Regional Analysis](Product%26RegionalAnalysis.png)
+![PharmaCommand Product and Regional Analysis](Product%26Product&RegionalAnalysis.png)
 
 ## Project File
 
