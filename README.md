@@ -57,15 +57,15 @@ The dashboard includes interactive filters for channel, sub-channel, and year.
 
 ### Executive Overview
 
-![PharmaCommand Executive Overview](Overview.png)
+![Executive Overview](./Overview.png)
 
 ### Sales and Channel Analysis
 
-![PharmaCommand Sales and Channel Analysis](Sales%26Sales&ChannelAnalysis.png)
+![Sales and Channel Analysis](./Sales%26ChannelAnalysis.png)
 
 ### Product and Regional Analysis
 
-![PharmaCommand Product and Regional Analysis](Product%26Product&RegionalAnalysis.png)
+![Product and Regional Analysis](./Product%26RegionalAnalysis.png)
 
 ## Project File
 
