@@ -54,18 +54,17 @@ Data preparation was performed using Power Query before developing the dashboard
 The dashboard includes interactive filters for channel, sub-channel, and year.
 
 ## Screenshots
-
 ### Executive Overview
 
-![Executive Overview](./Overview.png)
+![Executive Overview](Screenshots/Overview.png)
 
 ### Sales and Channel Analysis
 
-![Sales and Channel Analysis](./Sales%26ChannelAnalysis.png)
+![Sales and Channel Analysis](Screenshots/Sales%26ChannelAnalysis.png)
 
 ### Product and Regional Analysis
 
-![Product and Regional Analysis](./Product%26RegionalAnalysis.png)
+![Product and Regional Analysis](Screenshots/Product%26RegionalAnalysis.png)
 
 ## Project File
 
